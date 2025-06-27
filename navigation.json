@@ -1,0 +1,110 @@
+{
+	"news": [
+		"left",
+		"News",
+		[
+			"/curr_news",
+			"Current News"
+		],
+		[
+			"/old_news",
+			"News Archive"
+		]
+	],
+	"play": [
+		"left",
+		"Play",
+		[
+			"/club",
+			"Club Nights"
+		],
+		[
+			"/1stTeam",
+			"1st Team"
+		],
+		[
+			"/2ndTeam",
+			"2nd Team"
+		],
+		[
+			"/3rdTeam",
+			"3rd Team"
+		],
+		[
+			"/cuppers",
+			"Cuppers"
+		]
+	],
+	"join": [
+		"right",
+		"Join",
+		[
+			"/membership",
+			"Membership"
+		],
+		[
+			"/committee",
+			"Committee"
+		],
+		[
+			"/historical_committee",
+			"Past Officers"
+		],
+		[
+			"/teaching",
+			"Teaching"
+		],
+		[
+			"/auth",
+			"Online"
+		]
+	],
+	"about": [
+		"right",
+		"About",
+		[
+			"/maillists",
+			"Join our Mailing Lists"
+		],
+		[
+			"/contact",
+			"Contact Us"
+		],
+		[
+			"/outreach",
+			"Outreach"
+		],
+		[
+			"/venues",
+			"Venues"
+		]
+	],
+	"sponsors": [
+		"right",
+		"Sponsors"
+	],
+	"events": [
+		"left",
+		"Events",	
+		[
+			"/termcard",
+			"Termcard"
+		],	
+		[
+			"/events",
+			"Events"
+		],
+		[
+			"/varsity",
+			"Varsity"
+		],
+		[
+			"/tournaments",
+			"External Tournaments"
+		],
+		[
+			"/socials",
+			"Socials"
+		]
+	]
+}
