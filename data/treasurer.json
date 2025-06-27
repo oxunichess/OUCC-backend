@@ -1,0 +1,297 @@
+[
+    {
+        "name": "E.F. Linton",
+        "college": "University",
+        "term": "30 April 1869"
+    },
+    {
+        "name": "E.L. Holland",
+        "college": "University",
+        "term": "8 February 1870"
+    },
+    {
+        "name": "Rev. C. Rodwell",
+        "college": "Trinity",
+        "term": "23 March 1870"
+    },
+    {
+        "name": "R.D.H. Gray",
+        "college": "Brasenose",
+        "term": "9 December 1870"
+    },
+    {
+        "name": "T.C.V. Bastow",
+        "college": "Trinity",
+        "term": "5 June 1871"
+    },
+    {
+        "name": "Falconer Madan",
+        "college": "Brasenose",
+        "term": "12 March 1872"
+    },
+    {
+        "name": "E. Petit Jelf",
+        "college": "Christ Church",
+        "term": "4 June 1872"
+    },
+    {
+        "name": "J.S. Leadam",
+        "college": "Brasenose",
+        "term": "12 March 1873"
+    },
+    {
+        "name": "F.H. Woods",
+        "college": "Jesus",
+        "term": "3 May 1873"
+    },
+    {
+        "name": "A.R.C. Connell",
+        "college": "Trinity",
+        "term": "16 December 1874"
+    },
+    {
+        "name": "S.R. Meredith",
+        "college": "Brasenose",
+        "term": "14 April 1875"
+    },
+    {
+        "name": "W.P. Emerton",
+        "college": "Christ Church",
+        "term": "December 1875"
+    },
+    {
+        "name": "R.A. Germaine",
+        "college": "Brasenose",
+        "term": "26 October 1876"
+    },
+    {
+        "name": "E.J. Crosse",
+        "college": "Exeter",
+        "term": "4 December 1876"
+    },
+    {
+        "name": "W.M. Gattie",
+        "college": "Christ Church",
+        "term": "6 June 1877"
+    },
+    {
+        "name": "F.M. Wright",
+        "college": "Queen's",
+        "term": "18 March 1878"
+    },
+    {
+        "name": "E.H. Kinder",
+        "college": "Brasenose",
+        "term": "1 November 1878"
+    },
+    {
+        "name": "C. Taylor",
+        "college": "Christ Church",
+        "term": "20 March 1879"
+    },
+    {
+        "name": "B.R.V. Mills",
+        "college": "Christ Church",
+        "term": "1 December 1879"
+    },
+    {
+        "name": "J.F. Welsh",
+        "college": "Christ Church",
+        "term": "5 March 1880"
+    },
+    {
+        "name": "C.A. Darley",
+        "college": "Christ Church",
+        "term": "26 October 1880"
+    },
+    {
+        "name": "C.C. Lynam",
+        "college": "Hertford",
+        "term": "18 March 1881"
+    },
+    {
+        "name": "W.N.P. Beebe",
+        "college": "Trinity",
+        "term": "17 June 1881"
+    },
+    {
+        "name": "T.A. Wise",
+        "college": "Lincoln",
+        "term": "17 March 1882"
+    },
+    {
+        "name": "James Manders Walker",
+        "college": "Wadham",
+        "term": "Lent 1883"
+    },
+    {
+        "name": "S. Weall",
+        "college": "St. John's",
+        "term": "Michaelmas 1883"
+    },
+    {
+        "name": "F. Tracey",
+        "college": "Exeter",
+        "term": "Lent 1884"
+    },
+    {
+        "name": "C.D. Locock",
+        "college": "University",
+        "term": "Midsummer 1884"
+    },
+    {
+        "name": "James Manders Walker",
+        "college": "Wadham",
+        "term": "Lent 1885"
+    },
+    {
+        "name": "F.G. Newbolt",
+        "college": "Balliol",
+        "term": "Winter 1885"
+    },
+    {
+        "name": "S.J. Buchanan",
+        "college": "New",
+        "term": "Lent 1886"
+    },
+    {
+        "name": "F.G. Newbolt",
+        "college": "Balliol",
+        "term": "Michaelmas 1886"
+    },
+    {
+        "name": "W. Stoney",
+        "college": "Christ Church",
+        "term": "Hilary 1887"
+    },
+    {
+        "name": "A.G.G. Ross",
+        "college": "New",
+        "term": "October 1887"
+    },
+    {
+        "name": "W.M. Le Patourel",
+        "college": "Balliol",
+        "term": "Michaelmas 1888"
+    },
+    {
+        "name": "F.E. Jelly",
+        "college": "Magdalen",
+        "term": "October 1889"
+    },
+    {
+        "name": "R.G. Grimley",
+        "college": "Balliol",
+        "term": "October 1890"
+    },
+    {
+        "name": "G.G. Lynam",
+        "college": "St. Catherine's",
+        "term": "October 1891"
+    },
+    {
+        "name": "...",
+        "college": "",
+        "term": ""
+    },
+    {
+        "name": "T.A. Staynes",
+        "college": "Brasenose",
+        "term": "Michaelmas 1920"
+    },
+    {
+        "name": "...",
+        "college": "",
+        "term": ""
+    },
+    {
+        "name": "Ian Webster",
+        "college": "St. Anne's",
+        "term": "Trinity 2001"
+    },
+    {
+        "name": "Simon Breen",
+        "college": "University",
+        "term": "Trinity 2003"
+    },
+    {
+        "name": "Ed Stembridge",
+        "college": "Balliol",
+        "term": "Trinity 2004"
+    },
+    {
+        "name": "Ed Stembridge",
+        "college": "Balliol",
+        "term": "Trinity 2005"
+    },
+    {
+        "name": "Alexander Dutton",
+        "college": "Keble",
+        "term": "Trinity 2006"
+    },
+    {
+        "name": "Ed Stembridge",
+        "college": "Balliol",
+        "term": "Trinity 2007"
+    },
+    {
+        "name": "Zubin Siganporia",
+        "college": "St Catherine's",
+        "term": "Trinity 2008"
+    },
+    {
+        "name": "Kevin Henbest",
+        "college": "(Unattached)",
+        "term": "Trinity 2009"
+    },
+    {
+        "name": "Matthew Wills",
+        "college": "Trinity",
+        "term": "Trinity 2010"
+    },
+    {
+        "name": "Samuel Woolacott",
+        "college": "Queen's",
+        "term": "Trinity 2011"
+    },
+    {
+        "name": "Erik Thörnblad",
+        "college": "St Hugh's",
+        "term": "Trinity 2012"
+    },
+    {
+        "name": "Sean Lim",
+        "college": "St Hilda's",
+        "term": "Trinity 2013"
+    },
+    {
+        "name": "Sean Lim",
+        "college": "St Hilda's",
+        "term": "Trinity 2014"
+    },
+    {
+        "name": "Gordon Scott",
+        "college": "Merton",
+        "term": "Trinity 2015"
+    },
+    {
+        "name": "Angelos Vakalis",
+        "college": "Lincoln",
+        "term": "Trinity 2016"
+    },
+    {
+        "name": "David Martins",
+        "college": "Worcester",
+        "term": "Trinity 2017"
+	},
+	{
+		"name": "Aloysius Lip",
+		"college": "Christ Church",
+		"term": "Trinity 2018"
+	},
+	{
+		"name": "Callum Evans",
+		"college": "St John's College",
+		"term": "Trinity 2019"
+	}
+]

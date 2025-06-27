@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Joris Gerlagh",
+        "college": "University",
+        "position": "President"
+    },
+    {
+        "name": "Gordon Scott",
+        "college": "Merton",
+        "position": "Vice President"
+    },
+    {
+        "name": "Andrew Rogozinski",
+        "college": "Worcester",
+        "position": "Secretary"
+    },
+    {
+        "name": "Alexander Hardwick",
+        "college": "Magdelen",
+        "position": "Treasurer"
+    },
+    {
+        "name": "Joris Gerlagh",
+        "college": "University",
+        "position": "Varsity Captain"
+    },
+    {
+        "name": "Andrew Rogozinski",
+        "college": "Worcester",
+        "position": "First Team Captain"
+    },
+    {
+        "name": "Kevin Henbest",
+        "college": "Chemistry Dept",
+        "position": "Second Team Captain"
+    },
+    {
+        "name": "Tom Croghan",
+        "college": "St. Hilda's",
+        "position": "Third Team Captain"
+    },
+    {
+        "name": "Joris Gerlagh",
+        "college": "University",
+        "position": "Webmaster"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Andrew Rogozinski",
+        "college": "Worcester College",
+        "position": "President"
+    },
+    {
+        "name": "George Dumitrescu",
+        "college": "Lady Margaret Hall",
+        "position": "Vice President"
+    },
+    {
+        "name": "Filip Mihov",
+        "college": "Balliol College",
+        "position": "Secretary"
+    },
+    {
+        "name": "Aloysius Lip",
+        "college": "Christ Church",
+        "position": "Treasurer"
+    },
+    {
+        "name": "Daniel Abbas",
+        "college": "Magdalen College",
+        "position": "Varsity Captain"
+    },
+    {
+        "name": "Filip Mihov",
+        "college": "Balliol College",
+        "position": "First Team Captain"
+    },
+    {
+        "name": "Kevin Henbest",
+        "college": "Chemistry Department",
+        "position": "Second Team Captain"
+    },
+    {
+        "name": "Boris Gusev",
+        "college": "St. Hilda's College",
+        "position": "Third Team Captain"
+    },
+    {
+        "name": "Dan Sutton",
+        "college": "St. John's College",
+        "position": "Outreach Officer"
+    },
+    {
+        "name": "Ben Greenbury",
+        "college": "Jesus College",
+        "position": "Cuppers League Officer"
+    },
+    {
+        "name": "Victor Văsieșiu",
+        "college": "Hertford College",
+        "position": "Teaching Officer"
+    },
+    {
+        "name": "Dan Sutton",
+        "college": "St John's College",
+        "position": "Graduates' Officer"
+    },
+    {
+        "name": "Alexandre Warr-Esser",
+        "college": "St Anne's College",
+        "position": "Socials Officer"
+    },
+    {
+        "name": "Aloysius Lip",
+        "college": "Christ Church",
+        "position": "Digital Officer"
+    }
+]

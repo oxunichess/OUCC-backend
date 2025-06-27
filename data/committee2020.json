@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Aloysius Lip",
+        "college": "Christ Church",
+        "position": "President"
+    },
+    {
+        "name": "Ben Greenbury",
+        "college": "Jesus College",
+        "position": "Vice President"
+    },
+    {
+        "name": "Akshaya Kalaiyalahan",
+        "college": "Regent's Park College",
+        "position": "Secretary"
+    },
+    {
+        "name": "Callum Evans",
+        "college": "St John's College",
+        "position": "Treasurer"
+    },
+    {
+        "name": "Victor Văsieșiu",
+        "college": "Hertford College",
+        "position": "Varsity Captain"
+    },
+    {
+        "name": "Dan Sutton",
+        "college": "St John's College",
+        "position": "First Team Captain"
+    },
+    {
+        "name": "Jack Virgin",
+        "college": "Lincoln College",
+        "position": "Second Team Captain"
+    },
+    {
+        "name": "George Dumitrescu",
+        "college": "Lady Margaret Hall",
+        "position": "Third Team Captain"
+    },
+    {
+        "name": "Dan Sutton",
+        "college": "St. John's College",
+        "position": "Outreach Officer"
+    },
+    {
+        "name": "Kevin Henbest",
+        "college": "Chemistry Department",
+        "position": "Cuppers League Officer"
+    },
+    {
+        "name": "Victor Văsieșiu",
+        "college": "Hertford College",
+        "position": "Teaching Officer"
+    },
+    {
+        "name": "Süleyman Selim",
+        "college": "Biochemistry Department",
+        "position": "Graduates' Officer"
+    },
+    {
+        "name": "Rachel Wong",
+        "college": "Balliol College",
+        "position": "Socials Officer"
+    },
+    {
+        "name": "Andrew Rogozinski",
+        "college": "Worcester College",
+        "position": "Digital Officer"
+    }
+]

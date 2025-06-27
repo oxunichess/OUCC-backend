@@ -1,0 +1,26 @@
+{
+	"calendarIDs": {
+		"oxfordunichess@gmail.com": "blue",
+		"f8r5s6amq4momsc2s7nrt8vees@group.calendar.google.com": "red",
+		"knp5bmtf8m80o02fa13c1a0j5c@group.calendar.google.com": "orange",
+		"frs8s1f9ue1kq7p1ht9oa93sv4@group.calendar.google.com": "yellow",
+		"q46oqbjuu9f0hg68pehm961b9o@group.calendar.google.com": "lawngreen",
+		"mliver9tvb2mv4pq1uifce3ed0@group.calendar.google.com": "limegreen",
+		"vk8arnd9ol0hsjr26il70pjib8@group.calendar.google.com": "forestgreen",
+		"9son3k3tsivsind4ft3e1lisc8@group.calendar.google.com": "deepskyblue",
+		"48eo33am8b9l93u0a5asc3fe34@group.calendar.google.com": "saddlebrown"
+	},
+	"mapsLink": "https://www.google.com/maps/search/",
+	"locationReplacers": {
+		"Christ Church Cathedral": "Christ Church"
+	},
+	"days": [
+		"SUN",
+		"MON",
+		"TUES",
+		"WED",
+		"THURS",
+		"FRI",
+		"SAT"
+	]
+}
